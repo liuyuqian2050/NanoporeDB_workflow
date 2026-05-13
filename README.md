@@ -1,6 +1,5 @@
 # NanoporeDB_workflow
 
-![alt text](https://img.shields.io/badge/WorkflowHub-DOI_10.48546%2Fworkflowhub.workflow.XXX.1-blue)
 
 ![alt text](https://img.shields.io/badge/License-MIT-yellow.svg)
 
