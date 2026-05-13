@@ -1,0 +1,20 @@
+﻿
+#PDB database search (https://www.rcsb.org/):
+1.alpha-hemolysin:
+QUERY: Polymer Entity Description HAS ANY OF WORDS "alpha-hemolysin" OR Gene Name = "alpha-hemolysin" OR Macromolecule Name HAS ANY OF WORDS "alpha-hemolysin" OR UniProt Molecule Name HAS ANY OF WORDS "alpha-hemolysin"
+2.Aerolysin:
+QUERY: Polymer Entity Description HAS ANY OF WORDS "Aerolysin" OR Gene Name = "Aerolysin" OR Macromolecule Name HAS ANY OF WORDS "Aerolysin" OR UniProt Molecule Name HAS ANY OF WORDS "Aerolysin"
+3.MspA:
+QUERY: Polymer Entity Description HAS ANY OF WORDS "MspA" OR Gene Name = "MspA" OR Macromolecule Name HAS ANY OF WORDS "MspA" OR UniProt Molecule Name HAS ANY OF WORDS "MspA"
+4.CsgG:
+QUERY: Polymer Entity Description HAS ANY OF WORDS "CsgG" OR Gene Name = "CsgG" OR Macromolecule Name HAS ANY OF WORDS "CsgG" OR UniProt Molecule Name HAS ANY OF WORDS "CsgG"
+
+#AlphaFold Database search (https://alphafold.ebi.ac.uk/):
+1.alpha-hemolysin:
+QUERY: alpha hemolysin or alpha-hemolysin
+2.Aerolysin:
+QUERY: Aerolysin
+3.MspA:
+QUERY: MspA
+4.CsgG:
+QUERY: CsgG
