@@ -22,13 +22,13 @@ We recommend using Conda to manage dependencies. To replicate the environment:
 ### 3.2 External Tools
 Ensure the following tools are installed and accessible in your $PATH:
 
-MMseqs2 (v15.6f4a9+; RRID:SCR_008110)
+MMseqs2 (0b27c9d7d7757f9530f2efab14d246d268849925)
 
-Foldseek (v8.ef4d9+)
+Foldseek (v9.427df8a)
 
-CD-HIT (v4.8.1+; RRID:SCR_007105)
+US-align (v20241108)
 
-AlphaFold-Multimer (v2.3.0) & AlphaFold3 Server
+AlphaFold-Multimer & AlphaFold3 Server
 ## 4. Database Preparation
 Before running the pipeline, download and index the required databases:
 ### 4.1 Foldseek pre-generated databases of AFDB
